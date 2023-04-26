@@ -6,7 +6,7 @@ A basic template for the folder structure of your Godot project, as well as a co
 ## How to Use
 
 1. First, download the items in this repo.
-2. Copy the script templates to the appropriate location (which depends on your OS; see [The Official Godot Docs](https://docs.godotengine.org/en/stable/tutorials/scripting/creating_script_templates.html) for specifics).
+2. Copy the script templates to the appropriate location (which depends on your OS; see <a href="https://docs.godotengine.org/en/stable/tutorials/scripting/creating_script_templates.html" target="_blank">The Official Godot Docs</a> for specifics).
 3. Create your project in Godot (or open your existing one).
 4. Open/Unzip FolderStructure.zip
 5. Click and drag the folders over into the Godot editor's file tree.
